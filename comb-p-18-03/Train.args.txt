@@ -1,0 +1,4 @@
+-c 4 --seed 1e-1 --dist 500 -p Train --region-filter-p 0.1 --annotate hg19 No_quote_Ordered_Training.bed
+
+date: 2018-03-10 14:56:33.909511
+version: 0.47

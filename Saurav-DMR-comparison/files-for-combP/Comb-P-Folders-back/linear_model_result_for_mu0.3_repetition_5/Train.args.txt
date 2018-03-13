@@ -1,0 +1,4 @@
+-c 4 --seed 1e-3 --dist 200 -p Train --region-filter-p 0.1 --annotate hg19 linear_model_result_for_mu0.3_repetition_5.bed
+
+date: 2018-01-11 17:30:26.638837
+version: 0.47

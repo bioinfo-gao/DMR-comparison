@@ -1,0 +1,4 @@
+run time : 37 seconds 03/08
+run time : 35.829 seconds 03/09
+run time : 36.338 seconds 03/09
+run time : 35.913 seconds 03/09
