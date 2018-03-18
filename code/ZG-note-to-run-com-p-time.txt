@@ -1,0 +1,6 @@
+step1:
+    prepare_for_comb-P.R
+step2:
+    run_comb-p_with_time_for_each_miu.sh
+step3:
+    ZG_combp_time.R
