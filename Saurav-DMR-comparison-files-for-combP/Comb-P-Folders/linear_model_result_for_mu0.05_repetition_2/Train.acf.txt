@@ -1,2 +1,2 @@
 #lag_min	lag_max	correlation	N	p
-1	71	0.2106	74728	0
+1	171	0.186	167981	0
